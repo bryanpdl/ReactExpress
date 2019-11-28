@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.name {
+
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    margin-right: 8px;
+}
+
+.price {
+    font-size: 14px;
+    font-weight: bolder;
+    color: rgb(40, 159, 74);
+}
